@@ -1,8 +1,9 @@
 {
     "name": "agility/fetch",
-    "description": "",
+    "description": "PHP Fetch SDK for Agility CMS",
     "keywords": [
-        "swagger",
+        "agility",
+        "cms",
         "php",
         "sdk",
         "api"
