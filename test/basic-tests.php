@@ -85,5 +85,5 @@ try {
 
     //print_r("Resp: $item->fields->title \n");
 } catch (Exception $e) {
-    echo 'Exception when calling ContentModelsApi->guidApitypeContentmodelsGet: ', $e->getMessage(), PHP_EOL;
+    echo 'Exception occurred', $e->getMessage(), PHP_EOL;
 }
