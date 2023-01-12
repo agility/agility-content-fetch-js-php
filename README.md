@@ -1,6 +1,3 @@
-[![Build Status](https://agility.visualstudio.com/Agility%20CMS/_apis/build/status/Fetch%20API/Agility%20Content%20Fetch%20JS%20SDK?branchName=master)](https://agility.visualstudio.com/Agility%20CMS/_build/latest?definitionId=59&branchName=master)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c45f5d6e-923b-4019-820e-826e6185017d/deploy-status)](https://app.netlify.com/sites/agilitydocs/deploys)
-
 # Agility Content Fetch PHP SDK
 This is the PHP library for accessing live and preview content from your [Agility CMS](https://agilitycms.com) instance.
 
